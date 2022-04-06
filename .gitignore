@@ -32,3 +32,5 @@ services/reactapp/package-lock.json
 services/nextapp/package-lock.json
 
 /.DS_Store
+
+services/nextapp/.next/
